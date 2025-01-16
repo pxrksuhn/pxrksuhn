@@ -1,21 +1,32 @@
-## Hi there 👋
+# Hi there! 👋 I'm pxrksuhn 👩‍💻
 
-<!--
-**pxrksuhn/pxrksuhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! 🚀  
+I'm a passionate developer and researcher always exploring new technologies and ideas.  
+Feel free to connect with me or check out my work below! 😊  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+- 🔭 Currently working as **AI Software Engineer** at a Research Lab  
+- 🌌 Exploring the intersection of **AI and Technology**  
+- 💻 Developing intelligent systems for real-world applications  
+- 🌱 Continuously learning and growing in the field of **AI, Deep Learning, and Software Development**  
 
-Velog: https://velog.io/@pxrksuhn\n
-Blog: https://blog.naver.com/pxrksuhn-\n
-Instagram: pxrksuhn\n
-Telegram: pxrksuhn\n
+---
+
+## 📬 Connect with Me
+- 📓 **Velog**: [velog.io/@pxrksuhn](https://velog.io/@pxrksuhn)  
+- 🖋️ **Blog**: [blog.naver.com/pxrksuhn-](https://blog.naver.com/pxrksuhn-)  
+- 📸 **Instagram**: [pxrksuhn](https://www.instagram.com/pxrksuhn)  
+- ✉️ **Telegram**: [pxrksuhn](https://t.me/pxrksuhn)  
+
+---
+
+## ⚡ Fun Fact
+When I'm not coding, you'll find me dreaming about space exploration 🌌 or enjoying good coffee ☕.  
+
+---
+
+### 💡 Quote to Live By
+**"Once you've ruled out the impossible, whatever remains, however improbable, must be true."**  
+– Sherlock Holmes, *The Sign of the Four*
