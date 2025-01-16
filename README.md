@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Velog: https://velog.io/@pxrksuhn
-Blog: https://blog.naver.com/pxrksuhn-
-Instagram: pxrksuhn
-Telegram: pxrksuhn
+Velog: https://velog.io/@pxrksuhn\n
+Blog: https://blog.naver.com/pxrksuhn-\n
+Instagram: pxrksuhn\n
+Telegram: pxrksuhn\n
